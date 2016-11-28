@@ -1,0 +1,10 @@
+main: com.struckplayz.ulpl.UnlimitedPlugins
+name: UnlimitedPlugins
+author: Struck713
+version: 1.1
+
+commands:
+    unlimitedplugins:
+        aliases: [ulpl]
+        description: Main UnlimitedPlugins command.
+        usage: /<command> <enable/disable> <plugin>
